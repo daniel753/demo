@@ -1,2 +1,4 @@
 Instructions for deployin this to the server
 Lorem ispum....
+
+Troubleshooting
